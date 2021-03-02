@@ -15,3 +15,11 @@ Considere usar um gerenciador de pacotes Node, como [npm](https://github.com/sst
 Apos clonar ou baixar este repositório, acessamos a pasta do repositório e rodamos o comando [npm install](https://nodejs.org/pt-br/download/package-manager/), 
 para garantir a instalação dos pacotes necessários. agora podemos rodas a aplicação atraveés do comando [npm start](https://docs.npmjs.com/cli/v7/commands/npm-start), 
 e em seguida verificar a execução do serviço na [Tabela de Referência](https://docs.google.com/spreadsheets/d/1dgOvXTQ0cyWHA5hbDOOpbDL4V7QVoZxt5kVykGK5jfw/edit#gid=0).
+
+## Para rodar a aplicação localmente
+```shell
+$ git clone git@github.com:18F/open-source-guide.git
+$ cd open-source-guide
+$ npm install
+$npm start
+```
