@@ -1,6 +1,6 @@
 ---
 Título: Engenharia de Software - Desafio Roland Montalvan
-Link: /https://docs.google.com/spreadsheets/d/1dgOvXTQ0cyWHA5hbDOOpbDL4V7QVoZxt5kVykGK5jfw/edit#gid=0/
+Link: https://docs.google.com/spreadsheets/d/1dgOvXTQ0cyWHA5hbDOOpbDL4V7QVoZxt5kVykGK5jfw/edit#gid=0
 ---
 
 ## O que é este guia
@@ -16,9 +16,9 @@ Apos clonar ou baixar este repositório, acessamos a pasta do repositório e rod
 para garantir a instalação dos pacotes necessários. agora podemos rodas a aplicação atraveés do comando [npm start](https://docs.npmjs.com/cli/v7/commands/npm-start), 
 e em seguida verificar a execução do serviço na [Tabela de Referência](https://docs.google.com/spreadsheets/d/1dgOvXTQ0cyWHA5hbDOOpbDL4V7QVoZxt5kVykGK5jfw/edit#gid=0).
 
-## Para rodar a aplicação localmente
+## Rotina de comandos para executar a aplicação localmente
 ```shell
-$ git clone git@github.com:18F/open-source-guide.git
+$ git clone git@github.com:rolandmontalvan/tunts-processo-seletivo-desafio-de-programacao-nivel-1.git
 $ cd open-source-guide
 $ npm install
 $npm start
