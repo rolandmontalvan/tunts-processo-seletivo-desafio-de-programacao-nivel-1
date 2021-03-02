@@ -19,7 +19,7 @@ e em seguida verificar a execução do serviço na [Tabela de Referência](https
 ## Rotina de comandos para executar a aplicação localmente
 ```shell
 $ git clone git@github.com:rolandmontalvan/tunts-processo-seletivo-desafio-de-programacao-nivel-1.git
-$ cd open-source-guide
+$ cd tunts-processo-seletivo-desafio-de-programacao-nivel-1
 $ npm install
-$npm start
+$ npm start
 ```
